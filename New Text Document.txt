@@ -11,3 +11,11 @@ joy Hello
 ABC COMMITED SUCCESSFULLY 
 
 NEW LINE ADD FOR MERGE
+
+----------------------------NEW BRANCH (newfeature)------
+
+joy Hello
+
+ABC COMMITED SUCCESSFULLY 
+
+NEW LINE ADD FOR MERGE
